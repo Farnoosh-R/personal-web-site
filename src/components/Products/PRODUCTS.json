@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Product A",
+        "price": 1000,
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 2,
+        "title": "Product B",
+        "price": 2000,
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    },
+    {
+        "id": 3,
+        "title": "Product C",
+        "price": 3000,
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+    }
+]
